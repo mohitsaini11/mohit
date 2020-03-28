@@ -56,11 +56,11 @@ def last(ni):
 finebro=0
 last(value2)
 while True:
-    aman=value2-len(imp)
-    if aman>0:
+    hello=value2-len(imp)
+    if hello>0:
         finebro+=1
         last(aman)
-    elif aman==0:
+    elif hello==0:
         break
 
 h=0

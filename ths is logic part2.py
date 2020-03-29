@@ -59,7 +59,7 @@ while True:
     hello=value2-len(imp)
     if hello>0:
         finebro+=1
-        last(aman)
+        last(hello)
     elif hello==0:
         break
 
